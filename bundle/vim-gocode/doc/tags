@@ -1,0 +1,10 @@
+:CurPkg	vim-gocode.txt	/*:CurPkg*
+:Drop	vim-gocode.txt	/*:Drop*
+:Fmt	vim-gocode.txt	/*:Fmt*
+:Godoc	vim-gocode.txt	/*:Godoc*
+:Import	vim-gocode.txt	/*:Import*
+:ImportAs	vim-gocode.txt	/*:ImportAs*
+:RelPkg	vim-gocode.txt	/*:RelPkg*
+vim-gocode-contents	vim-gocode.txt	/*vim-gocode-contents*
+vim-gocode-usage	vim-gocode.txt	/*vim-gocode-usage*
+vim-gocode.txt	vim-gocode.txt	/*vim-gocode.txt*
